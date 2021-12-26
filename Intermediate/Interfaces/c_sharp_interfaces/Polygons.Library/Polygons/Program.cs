@@ -9,6 +9,9 @@ namespace Polygons
         {
             var square = new Square(5);
             DisplayPolygon("Square", square);
+
+            var trianlge = new Triangle(5);
+            DisplayPolygon("Triangle", trianlge);
         }
 
         public static void DisplayPolygon(string polygonType, dynamic polygon)
