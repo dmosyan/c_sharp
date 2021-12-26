@@ -1,0 +1,12 @@
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\bin\Debug\net5.0\Polygons.Library.deps.json
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\bin\Debug\net5.0\Polygons.Library.dll
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\bin\Debug\net5.0\ref\Polygons.Library.dll
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\bin\Debug\net5.0\Polygons.Library.pdb
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\obj\Debug\net5.0\Polygons.Library.csproj.AssemblyReference.cache
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\obj\Debug\net5.0\Polygons.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\obj\Debug\net5.0\Polygons.Library.AssemblyInfoInputs.cache
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\obj\Debug\net5.0\Polygons.Library.AssemblyInfo.cs
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\obj\Debug\net5.0\Polygons.Library.csproj.CoreCompileInputs.cache
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\obj\Debug\net5.0\Polygons.Library.dll
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\obj\Debug\net5.0\ref\Polygons.Library.dll
+C:\Users\DavitMosyan\source\repos\c_sharp\Intermediate\Interfaces\c_sharp_interfaces\Polygons.Library\Polygons.Library\obj\Debug\net5.0\Polygons.Library.pdb
